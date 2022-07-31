@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tortoise</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="failure">FAILURE</string>
+    <string name="success">SUCCESS</string>
+    <string name="reset">RESET</string>
+    <string name="result">RESULT</string>
+    <string name="hgh_score">"LAST HIGH SCORE : %d"</string>
+    <string name="enter_here">Enter here</string>
+    <string name="text_1">Type The Alphabet</string>
+    <string name="text_2">Typing game to see how fast you can type. Timer starts when you click start.</string>
+    <string name="timer">"TIME : %s"</string>
+    <string name="start">START</string>
+    <string name="random_character_text">Check here for random character to type</string>
+</resources>
